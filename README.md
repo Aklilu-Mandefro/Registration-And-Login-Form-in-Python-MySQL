@@ -25,9 +25,8 @@
 
 
 # Python Login and Registration system With MySQL Database Server<br>
-If you are a new in conecting python app with MySQL database, this will help you to do so. <br>
-Simple Login/Registration System - PYTHON + MySQL .This is a desktop application which is developed in Python platform using TKinter useful for Beginners.
-# Database
+If you are new to connecting a Python app with a MySQL database, this will help you do so. This is a desktop application written in Python TKinter and designed to be useful for beginners. 
+# Installation
 Create Database adlogin, Upload the provided sql file, install pymysql, Use the Dbcon class connection details.
 ## MODULES
 # Sign UP & Login  
