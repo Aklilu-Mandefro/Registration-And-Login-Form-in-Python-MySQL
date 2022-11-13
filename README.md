@@ -31,7 +31,7 @@ If you are new to connecting a Python app with a MySQL database, this will help 
 2. Upload the provided sql file
 3. install pymysql 
 4. Update the database connection details found in the **Dbcon** file as per your need.
-5. open the source code in a code editor and run **index.py** file
+5. open the source code in a code editor and run it
 5. Your are done!
 
 ## MODULES
